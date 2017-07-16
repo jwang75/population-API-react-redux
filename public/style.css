@@ -1,0 +1,17 @@
+
+
+table, tr th, .panel-heading, .panel-body{
+	text-align: center;
+}
+.text-center, .content{
+	text-align: center;
+}
+
+input, select {
+	height: 30px;
+}
+
+button {
+	width: 80px;
+	text-align: center;
+}
